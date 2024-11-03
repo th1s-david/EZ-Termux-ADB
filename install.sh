@@ -1,3 +1,3 @@
 clear
-echo "[*] Installing ADB"
+echo "${blue}[${yellow}*${blue}] ${red} Installing ADB"
 echo off
