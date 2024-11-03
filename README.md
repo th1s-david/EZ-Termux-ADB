@@ -4,5 +4,5 @@ Installation:
 Copy and paste into Termux:
 
 ```shell
-test
+pkg i wget && wget
 ```
