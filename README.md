@@ -4,4 +4,5 @@ Installation:
 Copy and paste into Termux:
 
 ```shell
-test```
+test
+```
