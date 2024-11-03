@@ -1,1 +1,3 @@
-echo "Hello world!"
+clear
+echo "[*] Installing ADB"
+echo off
